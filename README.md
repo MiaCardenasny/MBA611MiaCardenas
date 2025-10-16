@@ -1,35 +1,33 @@
 # MBA611 – Data Analytics with R and Stan  
 **Author:** Mia Cardenas  
 
-Welcome to my slightly terrifying but exciting adventure into the world of data analytics.  
-This repository is where I’ll keep all my code, notes, models, and random “aha!” (and “uh-oh…”) moments from the MBA 611 course at Manhattan University.  
+This is my workspace for the MBA 611 Data Analytics course at Manhattan University.  
+Here I’ll be exploring data, building models, and trying to make sense of the world one R script at a time.  
 
 ---
 
-## 💻 Setup Status  
-Everything is installed and miraculously working (for now):  
-- 🧠 **R** and **RStudio**  
-- 🧩 Packages: `rmarkdown`, `tinytex`, `rstan`, `rethinking`, `brms`, `ggplot2`  
-- 🔗 GitHub synced  
-- 📚 Following *Stats Two* on Leanpub and *R Cookbook, 2nd Edition*  
+## Setup  
+Everything’s ready to go:  
+- R and RStudio installed  
+- Packages: `rmarkdown`, `tinytex`, `rstan`, `rethinking`, `brms`, `ggplot2`  
+- GitHub connected  
+- Books: *Stats Two* (Leanpub) and *R Cookbook, 2nd Edition*  
 
-If something breaks, I’ll blame Stan first.  
-
----
-
-## 📊 Focus Areas  
-- Making sense of data without crying  
-- Building Bayesian models that (hopefully) converge  
-- Telling data stories with **ggplot2**  
-- Pretending I understand Markov chains before coffee kicks in  
+Let’s just say a few hours of setup and minor panic were involved, but we made it.  
 
 ---
 
-## 🧠 Fun Fact  
-I love analyzing data — from my students’ grades to how many cups of coffee it takes to finish a model run.  
-Numbers never lie… but they do like to confuse me on purpose.  
+## What I’ll Be Doing  
+- Learning Bayesian thinking without losing mine  
+- Building and visualizing models with R  
+- Using ggplot2 to tell stories through data  
+- Keeping everything organized (or trying to)  
 
 ---
 
-*“May my priors be strong and my posteriors make sense.”* ☕📈
+## About Me  
+I’m originally from Acapulco and work at Manhattan University. I’ve been living in New York for four years, and I love analyzing data — honestly, I do it for everything in my life, personal or professional.  
 
+---
+
+*Still slightly terrified, but excited to see where this data adventure goes.*
