@@ -1,2 +1,1 @@
-# MBA611MiaCardenas
-Repository for my MBA 611 Data Analytics coursework at Manhattan University.
+Updated README with setup and course details
